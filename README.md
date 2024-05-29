@@ -1,3 +1,3 @@
 # Fruit Recognizer
 
-This project is a simple android camera application that recognizes fruits.
+This is a simple android flutter project. A camera application that recognizes fruits.
