@@ -13,3 +13,5 @@ dependencies:
   image_picker: ^1.1.1
   tflite: ^1.1.2
 ```
+
+Works without errors with `Flutter 3.19.3`. Be aware `tflite` is not compitable with newer versions.
